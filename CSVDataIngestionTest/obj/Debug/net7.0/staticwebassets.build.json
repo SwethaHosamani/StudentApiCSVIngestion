@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "KPBAJ+ywBMwzzfr+vqCU2gq4Z1FnREmMGsdNISQHMis=",
+  "Source": "CSVDataIngestionTest",
+  "BasePath": "_content/CSVDataIngestionTest",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
